@@ -1,0 +1,6 @@
+I had never worked with Django, so in the begging I got a little confuse.
+After studyig and searching some examples in the internet I started to understand better.
+I used random data to fill the tables.
+I hope you like the solutions that I got from that GET request, I dont know if were that what you wanted but its the way I would do it.
+
+Looking foward to your answer.
